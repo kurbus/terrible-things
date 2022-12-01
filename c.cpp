@@ -1,9 +1,11 @@
 #include <stdio.h>
-int main(
+#include <iostream>
+int main() {
+std::string fkj;
 std::cout<<"test";
-std::cout<<"t":
-std::cin>>fkj
-std::cout<<*fkj
+std::cout<<"t";
+std::cin>>fkj;
+std::cout<<fkj;
 //build system test
 //it worked
-);
+};
