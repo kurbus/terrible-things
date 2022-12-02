@@ -1,3 +1,5 @@
 import random
 test=random.random()
 print(test)
+#code diversity
+#kjfiorjufoikdjkfldsklfjkldsjfkldsjfkdjklfjdskljfdskljflkdsjsklfjvhrsdfkhfskdgfkdsjfkldsjflkdsjfkldsjlkfdsfdsfdsfds
